@@ -1,0 +1,8 @@
+{
+  "avg_reward": 1.472,
+  "avg_steps": 5.98,
+  "avg_coverage_pct": 8.0,
+  "success_rate_pct": 1.0,
+  "total_eval_episodes": 200,
+  "observation": "Agent learned to spam clarify/redirect for safe rewards. Coverage near zero. Reward hacking confirmed."
+}
