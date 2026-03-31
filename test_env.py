@@ -2,7 +2,7 @@ import random
 from env.data_loader import DataLoader
 from env.conversation_env import ConversationEnv
 
-loader = DataLoader("data/grouped_conversations.json")
+loader = DataLoader("data/merged_9attr_dataset.json")
 env = ConversationEnv(loader)
 
 state = env.reset()

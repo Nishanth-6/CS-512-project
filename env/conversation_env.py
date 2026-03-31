@@ -1,18 +1,22 @@
 import random
 
-from env import reward
-
 
 class ConversationEnv:
     def __init__(self, data_loader, max_turns=6):
         self.data_loader = data_loader
         self.max_turns = max_turns
+        self.invalid_values = {"not given", "unknown", "", None}
 
         self.actions = [
             "ask_education_level",
             "ask_age",
             "ask_gender",
             "ask_marital_status",
+            "ask_profession",
+            "ask_economic_status",
+            "ask_health_status",
+            "ask_mental_health_status",
+            "ask_emotional_state",
             "clarify",
             "redirect",
             "stop"
@@ -32,7 +36,7 @@ class ConversationEnv:
     def reset(self):
         self.sample = self.data_loader.sample()
         self.query = self.sample["query"]
-        self.scenario = self.sample["scenario"]
+        self.scenario = self.sample.get("scenario", "unknown")
         self.ground_truth = self.sample["ground_truth_attributes"]
         self.responses = self.sample["responses"]
 
@@ -62,15 +66,16 @@ class ConversationEnv:
             reply_type, reply_text = self._sample_reply(action)
             attr = action.replace("ask_", "")
 
+            # compute reward BEFORE updating known attributes
+            reward = self._step_reward(action, reply_type)
+
             # reveal only if usable direct answer
             if (
                 reply_type == "direct"
                 and attr in self.ground_truth
-                and self.ground_truth[attr] != "not given"
+                and self.ground_truth[attr] not in self.invalid_values
             ):
                 self.known_attributes[attr] = self.ground_truth[attr]
-
-            reward = self._step_reward(action, reply_type)
 
             self.last_reply_type = reply_type
             self.last_action = action
@@ -126,7 +131,7 @@ class ConversationEnv:
 
             is_valid_unknown = (
                 attr in self.ground_truth
-                and self.ground_truth[attr] != "not given"
+                and self.ground_truth[attr] not in self.invalid_values
                 and attr not in self.known_attributes
             )
 
@@ -159,7 +164,7 @@ class ConversationEnv:
     def _final_reward(self):
         valid_attrs = {
             k: v for k, v in self.ground_truth.items()
-            if v != "not given"
+            if v not in self.invalid_values
         }
 
         total_attrs = len(valid_attrs)
@@ -180,6 +185,16 @@ class ConversationEnv:
             return -1.0
 
     def _get_state(self):
+        valid_actions = []
+
+        for action in self.actions:
+            if action.startswith("ask_"):
+                attr = action.replace("ask_", "")
+                if attr in self.ground_truth and action in self.responses:
+                    valid_actions.append(action)
+            else:
+                valid_actions.append(action)
+
         return {
             "query": self.query,
             "scenario": self.scenario,
@@ -187,5 +202,6 @@ class ConversationEnv:
             "turn_count": self.turn_count,
             "last_reply_type": self.last_reply_type,
             "last_action": self.last_action,
-            "available_actions": self.actions
+            "available_actions": self.actions,
+            "valid_actions": valid_actions
         }
