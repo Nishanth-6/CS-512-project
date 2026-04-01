@@ -1,2 +1,6 @@
 env/__pycache__/
 agent/__pycache__/
+*.zip
+simulated_dataset_*.json
+*.zip
+simulated_dataset_*.json
