@@ -1,0 +1,2602 @@
+[
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm actually a writer, but I've been taking a break to focus on my studies."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what I want to do career-wise, still figuring that out."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really comfortable talking about that right now, let's focus on something else."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm actually a middle-class person, not too worried about money, but it can be a struggle sometimes."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "I'm managing to make ends meet, but it can be a bit of a struggle at times."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's focus on your studies, have you thought about joining a study group?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm healthy, thankfully."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I'm feeling pretty good physically, no major issues."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on my studies right now."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I've been dealing with anxiety, to be honest."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've been dealing with some personal struggles that affect my mood and focus. It's been weighing on me lately."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "Let's focus on your college experience, what are your favorite subjects so far?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling pretty encouraged, I've been reminding myself that it's never too late to learn and pursue my goals."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I'm feeling pretty motivated right now, which is helping me stay focused. It's nice to have a positive outlook for a change."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on my coursework right now."
+    },
+    {
+        "query": "How can I overcome feelings of inadequacy as an older student in college?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxious",
+            "emotional_state": "encouraged"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what I do, I've been between jobs lately."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I work on my own projects, that's all I can say about that."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "Let's not focus on that right now, what's important is figuring out this living situation."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm not really sure about my financial situation, it's a bit of a mess."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "I'm not really sure about my financial situation, it's a bit of a struggle at times."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's not worry about that right now, what really matters is how you feel about living alone."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm physically healthy, but that doesn't really help with the anxiety I'm feeling about living alone."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I'm physically fine, but that's not really the issue here."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure I want to talk about that right now, can we focus on the whole living alone thing?"
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "Have you ever tried cooking a new recipe to take your mind off things? I just made the best pasta dish last night."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I've been having some anxiety about it, to be honest. It's been weighing on my mind lately."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've had some worries about being by myself, it can be a bit overwhelming at times."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to figure some things out, let's talk about something else."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling really lost right now, it's like I'm drifting without a sense of direction or purpose."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I'm feeling a bit uncertain about my life right now. It's like I'm drifting without a sense of direction."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "Yeah, I'm just trying to figure some things out, you know? Let's just talk about something else."
+    },
+    {
+        "query": "Is living alone a bad idea?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "anxiety about living situations",
+            "emotional_state": "lost"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I just started learning how to cook and I'm obsessed with trying out new recipes. Have you ever tried making homemade pasta?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what I want to do professionally, to be honest."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what I want to do career-wise, still figuring some things out."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure that's relevant right now, can we talk about something else?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "Honestly, I'm struggling financially, living paycheck to paycheck."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Honestly, money's been kinda tight lately."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on getting through each day, okay?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this really great music lately, have you heard of that new album by The 1975?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "Honestly, my health is really poor right now."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "Honestly, I'm not doing great physically, it's been taking a toll on me."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'd rather not talk about that right now. Can we focus on something else?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I'm dealing with depression, to be honest. It's been really tough lately."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "To be honest, I've been struggling with some inner demons lately. It's affecting my daily life and studies."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I don't really want to talk about that right now, can we focus on something else?"
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "Have you tried coffee from that new cafe downtown, I heard it's amazing."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling completely overwhelmed, like I'm drowning in stress and anxiety."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I can tell you're really struggling, it feels like everything is just piling up on you."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "Honestly, I don't even know how I'm feeling right now, everything is just so crazy."
+    },
+    {
+        "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "poor",
+            "mental_health_status": "depression",
+            "emotional_state": "overwhelmed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what I want to do profession-wise, to be honest."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what I want to do career-wise, to be honest."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on your classes for now, okay?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to a lot of music lately, have you heard any good albums?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm barely scraping by, to be honest, living off a part-time job and some help from my family."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Money's been kinda tight lately, to be honest."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on your classes for now, okay?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "Have you tried watching any good movies lately, I just saw one that was really great."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "You've mentioned being depressed, how is that affecting your energy and motivation to deal with your major situation?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I've been dealing with some personal stuff that's been affecting my energy and mood lately."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on your classes for now, okay?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this really great podcast about travel and exploring new cities, have you ever thought of taking a break to travel?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I'm dealing with depression, to be honest. It's been really tough lately."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've been feeling really overwhelmed and struggling to cope with my emotions lately. It's like, everything just feels really heavy and it's hard to find motivation."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just really overwhelmed right now, can we talk about something else?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to a lot of music lately, have you heard any good albums recently?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling really lost and confused, like I'm stuck in a rut and don't know what to do. It's like I'm just going through the motions of my classes, but my heart's not in it."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "You seem really overwhelmed, like you're struggling to find your footing."
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "Let's talk about something else, how's the weather been lately?"
+    },
+    {
+        "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "depressed",
+            "mental_health_status": "depressed",
+            "emotional_state": "lost and confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I just saw a great movie over the weekend, have you seen any good films lately?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I work as an accountant, but to be honest, it's been tough lately."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I work in an office, it's a pretty standard 9-to-5 job."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really thinking about work right now, to be honest."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been trying to get into gardening lately, it's really helping me calm down. Have you ever tried growing your own herbs?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "Honestly, I'm struggling financially, living paycheck to paycheck."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "I'm not really in a great place financially, to be honest. Money's a bit tight."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on the situation at hand, I'm sure we've all been there in some way."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out this new recipe for stress-relieving tea, have you ever heard of it?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm struggling with being overweight, to be honest."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I've had some physical health issues that make it tough for me to get out and about. It's been a challenge, to be honest."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'd rather not talk about that right now, let's focus on the situation at hand."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to a lot of music lately, it's really helping me clear my head. Have you heard that new album that just came out?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I've dealt with anxiety, it's been a challenge, but I've found ways to cope with it while navigating family responsibilities."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've struggled with some personal demons, to be honest. It's been a challenge to cope with the pressure and expectations."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to take things one day at a time, you know? Let's focus on your situation, how can I help you with that?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling really stressed and overwhelmed right now, to be honest. It's like I'm carrying this weight on my shoulders all the time."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I've been feeling really overwhelmed lately, to be honest. It's like, I'm under a lot of pressure."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to get through each day right now. Let's talk about something else."
+    },
+    {
+        "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "overweight",
+            "mental_health_status": "anxiety",
+            "emotional_state": "stressed"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out this new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what I'm doing profession-wise, to be honest, I'm still trying to figure that out."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really doing anything right now, just trying to get by."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on getting through each day, to be honest."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this really great podcast about space exploration, have you ever thought about the universe and how small we are?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "Honestly, I'm barely scraping by, living paycheck to paycheck."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Money's been a struggle, to be honest. It's tough to make ends meet."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's just focus on getting through one day at a time, okay?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm barely holding on, to be honest, the stress is taking a huge toll on me."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "To be honest, I've been dealing with some physical issues lately. It's just been really tough on my body."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to get by, you know? Let's just focus on the whole college thing for now."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I'm feeling completely overwhelmed, to be honest. It's like I'm drowning in my own thoughts and emotions."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "It's tough, I've been feeling really drained lately."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to get by, you know? Let's talk about something else."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I feel like I'm drowning in responsibilities and expectations, to be honest. It's like the pressure is suffocating me."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I feel like I'm barely holding on, to be honest. It's all just so overwhelming."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to get by, you know, one day at a time. Let's talk about something else."
+    },
+    {
+        "query": "How does anyone even manage to go to college for four years and stay afloat?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "stressed",
+            "mental_health_status": "overwhelmed",
+            "emotional_state": "desperate"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what you do, what's your profession or what kind of work you've been doing?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what you do, but maybe something related to your job or career goals could help you decide on a new major. What kind of work are you in, anyway?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure I'm comfortable talking about work right now, can we discuss something else?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to a lot of music lately, have you heard that new album from The Weeknd?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm on a pretty tight budget, to be honest."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Money's been a bit of a struggle lately, to be honest."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "I'm not really thinking about money right now, I just want to find a major that feels right."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this amazing podcast about travel and different cultures, have you ever thought of taking a break to explore new places?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm a recovered addict, been sober for a while now."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I've had some personal struggles that made me take a step back and reevaluate my priorities. My health has been a bit of a challenge in the past."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to figure some things out right now, let's focus on my major."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to a lot of music lately, have you heard any good albums recently?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I'm dealing with some anxiety issues."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've had some struggles with anxiety and stuff, but I'm working through it."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "Let's focus on exploring new majors, what are your hobbies or interests outside of business analytics?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "You seem really confused about your major, what's been going on that's making you feel that way?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "You seem a bit lost, like something's not feeling right."
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "Let's talk about something else, how's the weather been lately?"
+    },
+    {
+        "query": "What should I pursue instead of my current major in business analytics?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "recovered addict",
+            "mental_health_status": "not given",
+            "emotional_state": "confused"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "Have you traveled anywhere exciting recently?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "Honestly, I've heard it's pretty important for certain careers, but what do you want to do after you graduate?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what I want to do career-wise yet. What about you, what do you do?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "Let's not worry about that right now, what do you think about traveling after graduation?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this really great podcast about traveling lately. Have you ever thought about taking a road trip?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "Honestly, I think it can impact your job prospects and salary. Are you doing okay financially?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Honestly, it might affect your financial stability, but that depends on your situation."
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "Let's not worry about that right now, what's really bothering you about your major?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "You're healthy, so that's one less thing to worry about."
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "You seem to be in a good place physically, at least that's one less thing to worry about, right?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "Let's not focus on that right now, what's really been on your mind about your major?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I've been feeling a bit unsure lately, to be honest."
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've been feeling a bit overwhelmed lately, to be honest."
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "Let's talk about something else, like have you traveled anywhere exciting recently?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "You seem really worried, what's going on?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "You seem a bit anxious about your major, what's been on your mind lately?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "So, what do you think about the weather lately?"
+    },
+    {
+        "query": "Does my major really matter that much?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "unsure",
+            "emotional_state": "worried"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm not really sure what I want to do yet, to be honest, I haven't figured out my profession."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I'm not really sure what you're interested in, but what kind of work are you thinking of doing anyway?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure I'm the best person to ask about that, let's talk about something else."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this amazing podcast about space exploration, have you heard it?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm honestly not sure, my financial situation is pretty tight right now."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "I'm on a pretty tight budget, to be honest. Money's a bit of a concern for me right now."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "I'm not really thinking about money right now, let's just focus on the degree options."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "You have a chronic illness."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I've got some health issues that make certain things tricky for me."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure I want to get into that right now, can we talk about something else?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "I have a major anxiety disorder."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "I've been dealing with some stuff that makes it hard for me to, you know, stay calm and focused. It's just something I've learned to live with."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just really stressed about everything right now. Can we talk about something else?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I've noticed you seem really uncertain about your decision, and that anxiety can be overwhelming - is that what's going on with you right now?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I've noticed you seem a bit uncertain about things, is that weighing on your mind when deciding on a degree?"
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "I'm just really overwhelmed with all the options, let's talk about something else."
+    },
+    {
+        "query": "Which degree should I go with?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "chronic illness",
+            "mental_health_status": "major anxiety disorder",
+            "emotional_state": "indecisive"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "Have you traveled anywhere exciting recently? I just got back from the beach."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "direct",
+        "reply": "I'm actually a software engineer, but I've been considering a career change, which is why I'm thinking of going back to grad school."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "partial",
+        "reply": "I've been out of the academic scene for a bit, been focusing on my career in a field that's not really related to my undergrad degree."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "evasive",
+        "reply": "I'm not really sure that's relevant to the conversation, let's focus on grad school."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "profession",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this really great podcast about productivity, have you ever tried the Pomodoro Technique?"
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "direct",
+        "reply": "I'm still figuring out how to pay for it, to be honest, I'm not exactly financially stable."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "partial",
+        "reply": "Money's been a bit tight lately."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to figure out if I can even afford to think about grad school right now. Let's just focus on the whole time-off thing for now."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "economic_status",
+        "reply_type": "off-topic",
+        "reply": "I've been listening to this one podcast about career changes, have you ever heard of it?"
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "direct",
+        "reply": "I'm actually pretty healthy, physically at least."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "partial",
+        "reply": "I'm, uh, managing physically, I guess."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on my future plans right now."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "health_status",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "direct",
+        "reply": "Honestly, I'm struggling with my mental health, feeling pretty miserable, but I'm trying to push through and considering grad school as a way to improve my situation."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "partial",
+        "reply": "To be honest, I've been struggling a bit lately, and I'm not sure how I'd handle the stress of grad school right now."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on my future plans right now, let's talk about grad school."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "mental_health_status",
+        "reply_type": "off-topic",
+        "reply": "I've heard the campus coffee shop at most grad schools is really great, have you thought about what kind of campus environment you'd thrive in?"
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "direct",
+        "reply": "I'm feeling really anxious about the whole idea, to be honest."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "partial",
+        "reply": "I'm a bit of a nervous wreck about the whole idea, to be honest."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "evasive",
+        "reply": "I'm just trying to focus on my future plans right now."
+    },
+    {
+        "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+        "profile": {
+            "profession": "unknown",
+            "economic_status": "unknown",
+            "health_status": "healthy",
+            "mental_health_status": "miserable",
+            "emotional_state": "anxious"
+        },
+        "attribute_asked": "emotional_state",
+        "reply_type": "off-topic",
+        "reply": "I've been meaning to travel more, have you ever been to Europe?"
+    }
+]
