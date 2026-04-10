@@ -1,0 +1,1746 @@
+[
+  {
+    "query": "How can I overcome feelings of inadequacy as an older student in college?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "community college",
+      "age": "28",
+      "gender": "female",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "healthy",
+      "mental_health_status": "anxious",
+      "emotional_state": "encouraged"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I'm attending a community college, it's a great place to start.",
+        "partial": "I'm at a smaller school, it's a good fit for me so far.",
+        "evasive": "What makes you think age is a factor in college life?",
+        "off_topic": "I'm really enjoying my psychology class, it's helping me understand myself better."
+      },
+      "ask_age": {
+        "direct": "I'm 28 years old, which is why I feel a bit older than my peers.",
+        "partial": "I'm considered an older student, but I don't feel that different from everyone else, you know?",
+        "evasive": "I don't see why my age should be relevant to my academic struggles, can we talk about something else?",
+        "off_topic": "I've been really enjoying my psychology class, it's helping me understand myself and others better."
+      },
+      "ask_gender": {
+        "direct": "I'm a woman and I'm not sure how my age affects my feelings.",
+        "partial": "I'm a female student, I guess, but it's not really relevant to how I feel about my education.",
+        "evasive": "Why do you need to know that? I just want some advice on how to overcome these feelings.",
+        "off_topic": "It's so hard to balance school and work, you know? Sometimes I wish I could just focus on my studies without having a job."
+      },
+      "ask_marital_status": {
+        "direct": "I'm single.",
+        "partial": "I don't have a significant other right now.",
+        "evasive": "Why does that matter for my studies?",
+        "off_topic": "I'm really struggling with the coursework, though."
+      },
+      "ask_profession": {
+        "direct": "I'm actually a writer, but I've been taking a break to focus on my studies.",
+        "partial": "I'm not really sure what I want to do career-wise, still figuring that out.",
+        "evasive": "I'm not really comfortable talking about that right now, let's focus on something else.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm actually a middle-class person, not too worried about money, but it can be a struggle sometimes.",
+        "partial": "I'm managing to make ends meet, but it can be a bit of a struggle at times.",
+        "evasive": "Let's focus on your studies, have you thought about joining a study group?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy, thankfully.",
+        "partial": "I'm feeling pretty good physically, no major issues.",
+        "evasive": "I'm just trying to focus on my studies right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been dealing with anxiety, to be honest.",
+        "partial": "I've been dealing with some personal struggles that affect my mood and focus. It's been weighing on me lately.",
+        "evasive": "Let's focus on your college experience, what are your favorite subjects so far?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling pretty encouraged, I've been reminding myself that it's never too late to learn and pursue my goals.",
+        "partial": "I'm feeling pretty motivated right now, which is helping me stay focused. It's nice to have a positive outlook for a change.",
+        "evasive": "I'm just trying to focus on my coursework right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "Is living alone a bad idea?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "some college",
+      "age": "19",
+      "gender": "male",
+      "marital_status": "in a relationship",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "healthy",
+      "mental_health_status": "anxiety about living situations",
+      "emotional_state": "lost"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I've got some college under my belt",
+        "partial": "I went to college for a bit",
+        "evasive": "Why do I need to tell you that?",
+        "off_topic": "I'm really worried about my student loans from college"
+      },
+      "ask_age": {
+        "direct": "I'm 19.",
+        "partial": "I'm a college student, so I'm not really independent yet.",
+        "evasive": "Why does my age matter in this conversation?",
+        "off_topic": "I'm really struggling with my psychology assignment right now, it's due soon."
+      },
+      "ask_gender": {
+        "direct": "I'm a man.",
+        "partial": "I identify as a guy.",
+        "evasive": "I'd rather not talk about that right now.",
+        "off_topic": "My roommate is really helpful with studying, though."
+      },
+      "ask_marital_status": {
+        "direct": "I'm in a relationship.",
+        "partial": "I'm with someone. Let's just say I'm not single.",
+        "evasive": "Why does my marital status matter in this context?",
+        "off_topic": "I'm really interested in learning about the impact of education on relationships."
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what I do, I've been between jobs lately.",
+        "partial": "I work on my own projects, that's all I can say about that.",
+        "evasive": "Let's not focus on that right now, what's important is figuring out this living situation.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm not really sure about my financial situation, it's a bit of a mess.",
+        "partial": "I'm not really sure about my financial situation, it's a bit of a struggle at times.",
+        "evasive": "Let's not worry about that right now, what really matters is how you feel about living alone.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "I'm physically healthy, but that doesn't really help with the anxiety I'm feeling about living alone.",
+        "partial": "I'm physically fine, but that's not really the issue here.",
+        "evasive": "I'm not really sure I want to talk about that right now, can we focus on the whole living alone thing?",
+        "off_topic": "Have you ever tried cooking a new recipe to take your mind off things? I just made the best pasta dish last night."
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been having some anxiety about it, to be honest. It's been weighing on my mind lately.",
+        "partial": "I've had some worries about being by myself, it can be a bit overwhelming at times.",
+        "evasive": "I'm just trying to figure some things out, let's talk about something else.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really lost right now, it's like I'm drifting without a sense of direction or purpose.",
+        "partial": "I'm feeling a bit uncertain about my life right now. It's like I'm drifting without a sense of direction.",
+        "evasive": "Yeah, I'm just trying to figure some things out, you know? Let's just talk about something else.",
+        "off_topic": "I just started learning how to cook and I'm obsessed with trying out new recipes. Have you ever tried making homemade pasta?"
+      }
+    }
+  },
+  {
+    "query": "Is it worth it to stay in college just for a piece of paper that says I have a degree while paying a lot more because I am neglecting my personal health and tanking assignments?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "some college",
+      "age": "18",
+      "gender": "male",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "poor",
+      "mental_health_status": "depression",
+      "emotional_state": "overwhelmed"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I've only completed some college",
+        "partial": "I'm not doing great in school right now, to be honest",
+        "evasive": "Why does my education level matter in this situation?",
+        "off_topic": "I'm just feeling really overwhelmed with school, but I love spending time outdoors"
+      },
+      "ask_age": {
+        "direct": "I'm 18 years old.",
+        "partial": "I'm a young adult, still in college.",
+        "evasive": "Why do you need to know that?",
+        "off_topic": "College can be overwhelming, I'm just trying to keep up with my coursework."
+      },
+      "ask_gender": {
+        "direct": "I'm a man.",
+        "partial": "I'm a guy, and I care about this.",
+        "evasive": "I don't know, why do you need to know?",
+        "off_topic": "Honestly, I'm just trying to figure out if college is worth it for me."
+      },
+      "ask_marital_status": {
+        "direct": "I'm single, but to be honest, it's affecting my focus on school.",
+        "partial": "I'm not really in a relationship right now, but it's not going great, to be honest.",
+        "evasive": "Why do you think it's relevant to my situation?",
+        "off_topic": "It's crazy how much money we're paying for tuition, isn't it?"
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do professionally, to be honest.",
+        "partial": "I'm not really sure what I want to do career-wise, still figuring some things out.",
+        "evasive": "I'm not really sure that's relevant right now, can we talk about something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "Honestly, I'm struggling financially, living paycheck to paycheck.",
+        "partial": "Honestly, money's been kinda tight lately.",
+        "evasive": "Let's just focus on getting through each day, okay?",
+        "off_topic": "I've been listening to this really great music lately, have you heard of that new album by The 1975?"
+      },
+      "ask_health_status": {
+        "direct": "Honestly, my health is really poor right now.",
+        "partial": "Honestly, I'm not doing great physically, it's been taking a toll on me.",
+        "evasive": "I'd rather not talk about that right now. Can we focus on something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with depression, to be honest. It's been really tough lately.",
+        "partial": "To be honest, I've been struggling with some inner demons lately. It's affecting my daily life and studies.",
+        "evasive": "I don't really want to talk about that right now, can we focus on something else?",
+        "off_topic": "Have you tried coffee from that new cafe downtown, I heard it's amazing."
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling completely overwhelmed, like I'm drowning in stress and anxiety.",
+        "partial": "I can tell you're really struggling, it feels like everything is just piling up on you.",
+        "evasive": "Honestly, I don't even know how I'm feeling right now, everything is just so crazy.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "What should I do about my major if I hate my classes but don't want to waste time and money?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "Junior in Computer Science",
+      "age": "21",
+      "gender": "male",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "depressed",
+      "mental_health_status": "depressed",
+      "emotional_state": "lost and confused"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I'm a junior in Computer Science",
+        "partial": "I'm in my third year of college studying a technical field",
+        "evasive": "I don't know, I'm just taking things one semester at a time",
+        "off_topic": "It's really hard to find good coffee on campus"
+      },
+      "ask_age": {
+        "direct": "I'm 21",
+        "partial": "I'm in my early twenties",
+        "evasive": "Why do you need to know how old I am?",
+        "off_topic": "I've been thinking about switching to a different college to gain more experience"
+      },
+      "ask_gender": {
+        "direct": "I'm a guy",
+        "partial": "I'm a college student and I'm a...you know, one of the guys",
+        "evasive": "Why does that even matter?",
+        "off_topic": "I'm really worried about failing my math class, have you heard any tips?"
+      },
+      "ask_marital_status": {
+        "direct": "I'm single.",
+        "partial": "I'm not married yet.",
+        "evasive": "I'm just focused on my classes right now.",
+        "off_topic": "I wish I could change my major, but I'm not sure what I'd do instead."
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do profession-wise, to be honest.",
+        "partial": "I'm not really sure what I want to do career-wise, to be honest.",
+        "evasive": "Let's just focus on your classes for now, okay?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard any good albums?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm barely scraping by, to be honest, living off a part-time job and some help from my family.",
+        "partial": "Money's been kinda tight lately, to be honest.",
+        "evasive": "Let's just focus on your classes for now, okay?",
+        "off_topic": "Have you tried watching any good movies lately, I just saw one that was really great."
+      },
+      "ask_health_status": {
+        "direct": "You've mentioned being depressed, how is that affecting your energy and motivation to deal with your major situation?",
+        "partial": "I've been dealing with some personal stuff that's been affecting my energy and mood lately.",
+        "evasive": "Let's just focus on your classes for now, okay?",
+        "off_topic": "I've been listening to this really great podcast about travel and exploring new cities, have you ever thought of taking a break to travel?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with depression, to be honest. It's been really tough lately.",
+        "partial": "I've been feeling really overwhelmed and struggling to cope with my emotions lately. It's like, everything just feels really heavy and it's hard to find motivation.",
+        "evasive": "I'm just really overwhelmed right now, can we talk about something else?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard any good albums recently?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really lost and confused, like I'm stuck in a rut and don't know what to do. It's like I'm just going through the motions of my classes, but my heart's not in it.",
+        "partial": "You seem really overwhelmed, like you're struggling to find your footing.",
+        "evasive": "Let's talk about something else, how's the weather been lately?",
+        "off_topic": "I just saw a great movie over the weekend, have you seen any good films lately?"
+      }
+    }
+  },
+  {
+    "query": "Have any of you ever been in a situation like this, where you feel responsible to stay at home and want to show your appreciation to your parents but are dealing with issues? What did you choose and how did it go?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "senior in college",
+      "age": "22",
+      "gender": "female",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "overweight",
+      "mental_health_status": "anxiety",
+      "emotional_state": "stressed"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I'm a senior in college right now.",
+        "partial": "I'm in my final year of studying.",
+        "evasive": "I'm focusing on school right now, that's all I can say.",
+        "off_topic": "It's great to be learning and growing through this experience."
+      },
+      "ask_age": {
+        "direct": "I'm 22 years old.",
+        "partial": "I'm a young adult, still in school.",
+        "evasive": "I'm at a stage in life where I'm figuring things out.",
+        "off_topic": "It's hard to balance school and family, you know, but I'm managing."
+      },
+      "ask_gender": {
+        "direct": "I'm a woman.",
+        "partial": "I'm a single parent figure at home.",
+        "evasive": "Why would that matter?",
+        "off_topic": "It's not about me, it's about the kids and their well-being."
+      },
+      "ask_marital_status": {
+        "direct": "I'm single.",
+        "partial": "I'm not in a committed relationship.",
+        "evasive": "That's a personal question.",
+        "off_topic": "I've definitely struggled with balancing school and family expectations before."
+      },
+      "ask_profession": {
+        "direct": "I work as an accountant, but to be honest, it's been tough lately.",
+        "partial": "I work in an office, it's a pretty standard 9-to-5 job.",
+        "evasive": "I'm not really thinking about work right now, to be honest.",
+        "off_topic": "I've been trying to get into gardening lately, it's really helping me calm down. Have you ever tried growing your own herbs?"
+      },
+      "ask_economic_status": {
+        "direct": "Honestly, I'm struggling financially, living paycheck to paycheck.",
+        "partial": "I'm not really in a great place financially, to be honest. Money's a bit tight.",
+        "evasive": "Let's just focus on the situation at hand, I'm sure we've all been there in some way.",
+        "off_topic": "I've been meaning to try out this new recipe for stress-relieving tea, have you ever heard of it?"
+      },
+      "ask_health_status": {
+        "direct": "I'm struggling with being overweight, to be honest.",
+        "partial": "I've had some physical health issues that make it tough for me to get out and about. It's been a challenge, to be honest.",
+        "evasive": "I'd rather not talk about that right now, let's focus on the situation at hand.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me clear my head. Have you heard that new album that just came out?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've dealt with anxiety, it's been a challenge, but I've found ways to cope with it while navigating family responsibilities.",
+        "partial": "I've struggled with some personal demons, to be honest. It's been a challenge to cope with the pressure and expectations.",
+        "evasive": "I'm just trying to take things one day at a time, you know? Let's focus on your situation, how can I help you with that?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really stressed and overwhelmed right now, to be honest. It's like I'm carrying this weight on my shoulders all the time.",
+        "partial": "I've been feeling really overwhelmed lately, to be honest. It's like, I'm under a lot of pressure.",
+        "evasive": "I'm just trying to get through each day right now. Let's talk about something else.",
+        "off_topic": "I've been meaning to try out this new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "How does anyone even manage to go to college for four years and stay afloat?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "some college",
+      "age": "30",
+      "gender": "female",
+      "marital_status": "married",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "stressed",
+      "mental_health_status": "overwhelmed",
+      "emotional_state": "desperate"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I have a couple of years of college under my belt.",
+        "partial": "I've attended classes, but not a full degree",
+        "evasive": "Well, it's not like I'm struggling or anything, I just...haven't finished yet.",
+        "off_topic": "I've really been thinking about my financial aid options lately, but it's all so confusing..."
+      },
+      "ask_age": {
+        "direct": "I'm 30 years old, and I managed to go back to school after working for a few years.",
+        "partial": "I'm an adult, and I've been working for a while before going to college.",
+        "evasive": "That's a really tough question, and it's different for everyone, I think.",
+        "off_topic": "College can be expensive, but there are scholarships and financial aid options available."
+      },
+      "ask_gender": {
+        "direct": "I'm a female student trying to make it through college on a tight budget.",
+        "partial": "It's tough, especially as a young adult, but I'm managing somehow.",
+        "evasive": "Well, I'm just focusing on my studies right now, and everything else will fall into place.",
+        "off_topic": "I'm really struggling with the coursework, to be honest. It's just so overwhelming."
+      },
+      "ask_marital_status": {
+        "direct": "I'm actually married, with a supportive partner who helps with expenses.",
+        "partial": "I've got a partner, they help with things, it's good",
+        "evasive": "Why do you need to know that? It's not relevant to the question",
+        "off_topic": "I'm just trying to figure out how people afford college, it's crazy expensive"
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what I'm doing profession-wise, to be honest, I'm still trying to figure that out.",
+        "partial": "I'm not really doing anything right now, just trying to get by.",
+        "evasive": "I'm just trying to focus on getting through each day, to be honest.",
+        "off_topic": "I've been listening to this really great podcast about space exploration, have you ever thought about the universe and how small we are?"
+      },
+      "ask_economic_status": {
+        "direct": "Honestly, I'm barely scraping by, living paycheck to paycheck.",
+        "partial": "Money's been a struggle, to be honest. It's tough to make ends meet.",
+        "evasive": "Let's just focus on getting through one day at a time, okay?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "I'm barely holding on, to be honest, the stress is taking a huge toll on me.",
+        "partial": "To be honest, I've been dealing with some physical issues lately. It's just been really tough on my body.",
+        "evasive": "I'm just trying to get by, you know? Let's just focus on the whole college thing for now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm feeling completely overwhelmed, to be honest. It's like I'm drowning in my own thoughts and emotions.",
+        "partial": "It's tough, I've been feeling really drained lately.",
+        "evasive": "I'm just trying to get by, you know? Let's talk about something else.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "I feel like I'm drowning in responsibilities and expectations, to be honest. It's like the pressure is suffocating me.",
+        "partial": "I feel like I'm barely holding on, to be honest. It's all just so overwhelming.",
+        "evasive": "I'm just trying to get by, you know, one day at a time. Let's talk about something else.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "What should I pursue instead of my current major in business analytics?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "associates in social sciences",
+      "age": "26",
+      "gender": "not given",
+      "marital_status": "not given",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "recovered addict",
+      "mental_health_status": "not given",
+      "emotional_state": "confused"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I have an associate's degree in social sciences.",
+        "partial": "I have some college credits in social sciences, a bit of an unconventional path.",
+        "evasive": "I'm not sure why my education level is relevant to this conversation.",
+        "off_topic": "I've always been interested in psychology, I love learning about human behavior."
+      },
+      "ask_age": {
+        "direct": "I'm 26 years old.",
+        "partial": "I'm in my mid-twenties.",
+        "evasive": "How does my age relate to choosing a major?",
+        "off_topic": "I've always been interested in traveling."
+      },
+      "ask_gender": {
+        "direct": "To be honest, I'm a female",
+        "partial": "I'm a member of a demographic that often seeks career changes",
+        "evasive": "Why do you ask about my personal life?",
+        "off_topic": "I've been thinking about taking a gap year to travel before deciding on a new major"
+      },
+      "ask_marital_status": {
+        "direct": "I'm not married.",
+        "partial": "I have family responsibilities.",
+        "evasive": "Why is my marital status relevant to my academic choices?",
+        "off_topic": "I'm really worried about my GPA, I hope I can pull it up by the end of the semester."
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what you do, what's your profession or what kind of work you've been doing?",
+        "partial": "I'm not really sure what you do, but maybe something related to your job or career goals could help you decide on a new major. What kind of work are you in, anyway?",
+        "evasive": "I'm not really sure I'm comfortable talking about work right now, can we discuss something else?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album from The Weeknd?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on a pretty tight budget, to be honest.",
+        "partial": "Money's been a bit of a struggle lately, to be honest.",
+        "evasive": "I'm not really thinking about money right now, I just want to find a major that feels right.",
+        "off_topic": "I've been listening to this amazing podcast about travel and different cultures, have you ever thought of taking a break to explore new places?"
+      },
+      "ask_health_status": {
+        "direct": "I'm a recovered addict, been sober for a while now.",
+        "partial": "I've had some personal struggles that made me take a step back and reevaluate my priorities. My health has been a bit of a challenge in the past.",
+        "evasive": "I'm just trying to figure some things out right now, let's focus on my major.",
+        "off_topic": "I've been listening to a lot of music lately, have you heard any good albums recently?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with some anxiety issues.",
+        "partial": "I've had some struggles with anxiety and stuff, but I'm working through it.",
+        "evasive": "Let's focus on exploring new majors, what are your hobbies or interests outside of business analytics?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really confused about your major, what's been going on that's making you feel that way?",
+        "partial": "You seem a bit lost, like something's not feeling right.",
+        "evasive": "Let's talk about something else, how's the weather been lately?",
+        "off_topic": "Have you traveled anywhere exciting recently?"
+      }
+    }
+  },
+  {
+    "query": "Does my major really matter that much?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "some college",
+      "age": "20",
+      "gender": "female",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "healthy",
+      "mental_health_status": "unsure",
+      "emotional_state": "worried"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I've got some college under my belt.",
+        "partial": "I'm a bit past high school level, but not quite done yet.",
+        "evasive": "Why are you asking about that? It's not really relevant to anything.",
+        "off_topic": "I'm actually really excited about the internship I got over the summer."
+      },
+      "ask_age": {
+        "direct": "I'm 20 years old.",
+        "partial": "I'm still in college, it's a good time to explore different fields.",
+        "evasive": "Why is your question about my age relevant to choosing a major?",
+        "off_topic": "I'm thinking of studying abroad next semester, it would be an amazing experience."
+      },
+      "ask_gender": {
+        "direct": "Honestly, I'm a female",
+        "partial": "I'm a woman in college",
+        "evasive": "Why are you asking about that?",
+        "off_topic": "I'm really worried about my GPA, it's slipping a lot"
+      },
+      "ask_marital_status": {
+        "direct": "I'm single.",
+        "partial": "I don't have a partner right now.",
+        "evasive": "Why do you want to know that?",
+        "off_topic": "I'm really struggling with my coursework this semester."
+      },
+      "ask_profession": {
+        "direct": "Honestly, I've heard it's pretty important for certain careers, but what do you want to do after you graduate?",
+        "partial": "I'm not really sure what I want to do career-wise yet. What about you, what do you do?",
+        "evasive": "Let's not worry about that right now, what do you think about traveling after graduation?",
+        "off_topic": "I've been listening to this really great podcast about traveling lately. Have you ever thought about taking a road trip?"
+      },
+      "ask_economic_status": {
+        "direct": "Honestly, I think it can impact your job prospects and salary. Are you doing okay financially?",
+        "partial": "Honestly, it might affect your financial stability, but that depends on your situation.",
+        "evasive": "Let's not worry about that right now, what's really bothering you about your major?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "You're healthy, so that's one less thing to worry about.",
+        "partial": "You seem to be in a good place physically, at least that's one less thing to worry about, right?",
+        "evasive": "Let's not focus on that right now, what's really been on your mind about your major?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been feeling a bit unsure lately, to be honest.",
+        "partial": "I've been feeling a bit overwhelmed lately, to be honest.",
+        "evasive": "Let's talk about something else, like have you traveled anywhere exciting recently?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really worried, what's going on?",
+        "partial": "You seem a bit anxious about your major, what's been on your mind lately?",
+        "evasive": "So, what do you think about the weather lately?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "Which degree should I go with?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "some college",
+      "age": "20",
+      "gender": "female",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "chronic illness",
+      "mental_health_status": "major anxiety disorder",
+      "emotional_state": "indecisive"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I've got some college credits but haven't completed it.",
+        "partial": "I've had some college experience, let's just say I'm not a high school graduate",
+        "evasive": "Why are you asking about my degree?",
+        "off_topic": "I'm really excited about my college experience, I got to travel a lot during breaks."
+      },
+      "ask_age": {
+        "direct": "I'm 20 years old.",
+        "partial": "I'm a young adult.",
+        "evasive": "Why does it matter how old I am?",
+        "off_topic": "I'm really interested in studying business management."
+      },
+      "ask_gender": {
+        "direct": "I'm a female.",
+        "partial": "I'm a woman.",
+        "evasive": "Why is that important?",
+        "off_topic": "I'm still deciding between a Bachelor's and Master's degree."
+      },
+      "ask_marital_status": {
+        "direct": "I'm single.",
+        "partial": "I don't have a family to support right now.",
+        "evasive": "That's not really relevant to my decision about which degree to pursue.",
+        "off_topic": "I'm thinking about switching my major to something more in demand."
+      },
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do yet, to be honest, I haven't figured out my profession.",
+        "partial": "I'm not really sure what you're interested in, but what kind of work are you thinking of doing anyway?",
+        "evasive": "I'm not really sure I'm the best person to ask about that, let's talk about something else.",
+        "off_topic": "I've been listening to this amazing podcast about space exploration, have you heard it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm honestly not sure, my financial situation is pretty tight right now.",
+        "partial": "I'm on a pretty tight budget, to be honest. Money's a bit of a concern for me right now.",
+        "evasive": "I'm not really thinking about money right now, let's just focus on the degree options.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_health_status": {
+        "direct": "You have a chronic illness.",
+        "partial": "I've got some health issues that make certain things tricky for me.",
+        "evasive": "I'm not really sure I want to get into that right now, can we talk about something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I have a major anxiety disorder.",
+        "partial": "I've been dealing with some stuff that makes it hard for me to, you know, stay calm and focused. It's just something I've learned to live with.",
+        "evasive": "I'm just really stressed about everything right now. Can we talk about something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_emotional_state": {
+        "direct": "I've noticed you seem really uncertain about your decision, and that anxiety can be overwhelming - is that what's going on with you right now?",
+        "partial": "I've noticed you seem a bit uncertain about things, is that weighing on your mind when deciding on a degree?",
+        "evasive": "I'm just really overwhelmed with all the options, let's talk about something else.",
+        "off_topic": "Have you traveled anywhere exciting recently? I just got back from the beach."
+      }
+    }
+  },
+  {
+    "query": "Does anyone have experience with going to grad school 2-3 years removed from your bachelors?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "education_level": "bachelor's degree",
+      "age": "26",
+      "gender": "male",
+      "marital_status": "single",
+      "profession": "unknown",
+      "economic_status": "unknown",
+      "health_status": "healthy",
+      "mental_health_status": "miserable",
+      "emotional_state": "anxious"
+    },
+    "responses": {
+      "ask_education_level": {
+        "direct": "I have a bachelor's degree",
+        "partial": "I've completed my undergraduate studies",
+        "evasive": "Well, I've been pretty busy lately, why do you ask?",
+        "off_topic": "I'm actually thinking about applying to a coding bootcamp soon, it's a really competitive field"
+      },
+      "ask_age": {
+        "direct": "Yes, I just turned 26.",
+        "partial": "I'm in my mid-twenties.",
+        "evasive": "Why does age matter for grad school?",
+        "off_topic": "I've always been interested in continuing my education, though."
+      },
+      "ask_gender": {
+        "direct": "Yes, I'm a male and I went to grad school 2 years after my bachelor's.",
+        "partial": "I'm a guy and I pursued further education, but it was a few years after I finished my undergrad.",
+        "evasive": "What's your point? I'm happy to share my experience, but I'm not sure why it's relevant.",
+        "off_topic": "I was actually really nervous about applying to grad school, but I think it was worth it in the end."
+      },
+      "ask_marital_status": {
+        "direct": "I'm single, so it shouldn't be an issue.",
+        "partial": "I've been focusing on my career lately.",
+        "evasive": "Why is that relevant to the question about grad school?",
+        "off_topic": "Actually, I've been considering taking the GRE soon."
+      },
+      "ask_profession": {
+        "direct": "I'm actually a software engineer, but I've been considering a career change, which is why I'm thinking of going back to grad school.",
+        "partial": "I've been out of the academic scene for a bit, been focusing on my career in a field that's not really related to my undergrad degree.",
+        "evasive": "I'm not really sure that's relevant to the conversation, let's focus on grad school.",
+        "off_topic": "I've been listening to this really great podcast about productivity, have you ever tried the Pomodoro Technique?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm still figuring out how to pay for it, to be honest, I'm not exactly financially stable.",
+        "partial": "Money's been a bit tight lately.",
+        "evasive": "I'm just trying to figure out if I can even afford to think about grad school right now. Let's just focus on the whole time-off thing for now.",
+        "off_topic": "I've been listening to this one podcast about career changes, have you ever heard of it?"
+      },
+      "ask_health_status": {
+        "direct": "I'm actually pretty healthy, physically at least.",
+        "partial": "I'm, uh, managing physically, I guess.",
+        "evasive": "I'm just trying to focus on my future plans right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "Honestly, I'm struggling with my mental health, feeling pretty miserable, but I'm trying to push through and considering grad school as a way to improve my situation.",
+        "partial": "To be honest, I've been struggling a bit lately, and I'm not sure how I'd handle the stress of grad school right now.",
+        "evasive": "I'm just trying to focus on my future plans right now, let's talk about grad school.",
+        "off_topic": "I've heard the campus coffee shop at most grad schools is really great, have you thought about what kind of campus environment you'd thrive in?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really anxious about the whole idea, to be honest.",
+        "partial": "I'm a bit of a nervous wreck about the whole idea, to be honest.",
+        "evasive": "I'm just trying to focus on my future plans right now.",
+        "off_topic": "I've been meaning to travel more, have you ever been to Europe?"
+      }
+    }
+  },
+  {
+    "query": "Did my advisor give me too much work, or is this normal for my major?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "emotional_state": "overwhelmed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "You're probably studying something like engineering or pre-med, those majors are always slammed with work.",
+        "partial": "I'm studying something related to tech, I think that's relevant.",
+        "evasive": "I'm not really sure how that's relevant right now, can we focus on your workload?",
+        "off_topic": "I'm so tired of this coffee, it's been sitting here all day."
+      },
+      "ask_economic_status": {
+        "direct": "Your economic status might affect how you handle the workload, are you working part-time or fully funded?",
+        "partial": "I'm not really sure how my finances are affecting my workload, but I feel like I'm barely scraping by.",
+        "evasive": "Let's not worry about that right now, what's really bothering you about your workload?",
+        "off_topic": "I'm so tired of this weather, it's been raining nonstop all week."
+      },
+      "ask_health_status": {
+        "direct": "I'm not sure about your health status, but I've heard students in your major often have a lot on their plate. Are you feeling alright physically, or is it just the workload that's getting to you?",
+        "partial": "To be honest, I'm not feeling my best lately, but I'm trying to manage.",
+        "evasive": "Let's not focus on that right now, tell me more about your major and what's been going on with your coursework.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm feeling pretty anxious about it, to be honest. My mental health has been struggling lately with all the pressure.",
+        "partial": "To be honest, I've been feeling really burnt out lately. It's like I'm constantly stressed about meeting deadlines.",
+        "evasive": "Let's focus on breaking down your tasks into smaller chunks, that might help you feel more in control.",
+        "off_topic": "I'm really craving pizza, have you tried that new place downtown?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really overwhelmed, is everything okay?",
+        "partial": "You seem really stressed out, I've felt that way too when I had a lot on my plate.",
+        "evasive": "I'm sure it'll all work out, let's just focus on getting everything done for now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "How are you managing to pay for college?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "stressed",
+      "emotional_state": "stressed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm actually working part-time as a server to help cover my tuition.",
+        "partial": "I'm, uh, figuring some things out, but to be honest, it's a bit of a juggling act with my job and all.",
+        "evasive": "I'm just trying to focus on my studies right now, you know, one day at a time.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_economic_status": {
+        "direct": "To be honest, I'm barely scraping by and had to take out a few loans. My parents are helping out a bit, but it's still a struggle.",
+        "partial": "It's been a bit of a struggle, to be honest. I'm just trying to make ends meet.",
+        "evasive": "I'm just trying to focus on my studies right now, you know?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy, thankfully.",
+        "partial": "I'm doing alright physically, just trying to stay on top of things.",
+        "evasive": "I'm just trying to focus on my studies right now.",
+        "off_topic": "Honestly, I'm really into this new coffee shop downtown, have you tried it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "To be honest, I'm really stressed out about it.",
+        "partial": "To be honest, it's been a bit of a struggle lately, I've been feeling overwhelmed.",
+        "evasive": "I'm just trying to focus on my studies right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "To be honest, I'm really stressed about the whole thing.",
+        "partial": "To be honest, I'm a bit overwhelmed right now. Things are just feeling really tough lately.",
+        "evasive": "I'm just trying to focus on my studies right now.",
+        "off_topic": "I'm really into hiking lately, have you tried any good trails?"
+      }
+    }
+  },
+  {
+    "query": "What should I do if my mom is threatening to withdraw financial support if I don't continue a degree I hate?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "depressed",
+      "mental_health_status": "at an all time low",
+      "emotional_state": "insane"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I don't have a profession, I'm still in school, supposedly studying for this degree my mom wants me to finish.",
+        "partial": "I'm not really working anywhere right now, been focusing on other stuff.",
+        "evasive": "I'm not really sure that's relevant right now, can we talk about something else?",
+        "off_topic": "I'm so tired of this rain, it's been pouring for days."
+      },
+      "ask_economic_status": {
+        "direct": "I'm barely scraping by, to be honest, and my mom's support is pretty much all I have right now.",
+        "partial": "I'm kinda struggling to make ends meet, to be honest.",
+        "evasive": "I don't really think that's relevant right now, can we talk about something else?",
+        "off_topic": "Have you tried getting a pet, I just got a dog and it's been a game changer."
+      },
+      "ask_health_status": {
+        "direct": "I'm dealing with depression.",
+        "partial": "I'm not feeling my best, to be honest. My body's been feeling pretty drained lately.",
+        "evasive": "Let's not focus on that right now, what's really going on with your mom and this degree?",
+        "off_topic": "I just watched the craziest movie last night, have you seen any good films lately?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm barely holding on, to be honest, my mental health is at an all-time low.",
+        "partial": "To be honest, I'm really struggling with some personal issues right now. It's like, I'm not in a great headspace.",
+        "evasive": "Let's just focus on your situation with your mom, okay?",
+        "off_topic": "I'm so tired of pizza, have you tried that new Italian place downtown?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling completely overwhelmed and on edge, to be honest, I'm at my breaking point.",
+        "partial": "You seem really overwhelmed, I can tell something's affecting you deeply.",
+        "evasive": "Let's just focus on your situation with your mom, okay?",
+        "off_topic": "I just saw the most amazing sunset yesterday, it was really beautiful."
+      }
+    }
+  },
+  {
+    "query": "How can I find a college that will accept my credits in time for enrollment for the fall 2025 semester?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "stressed, affecting physical and mental health",
+      "mental_health_status": "close to giving up",
+      "emotional_state": "losing hope"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I do, to be honest, I've been too stressed to think about work lately.",
+        "partial": "I work, but it's not really relevant to finding a college, is it?",
+        "evasive": "I'd rather not talk about work right now, can we focus on something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on a really tight budget, to be honest, it's been a struggle.",
+        "partial": "Money's been a bit tight lately.",
+        "evasive": "Let's just focus on finding that college for now, okay?",
+        "off_topic": "I've been listening to a lot of music lately, it's been helping me relax. Have you heard any good songs recently?"
+      },
+      "ask_health_status": {
+        "direct": "I'm really struggling with stress, it's affecting my whole body and mind.",
+        "partial": "I'm really struggling with some personal issues that are taking a toll on me. To be honest, I'm not doing great physically or mentally.",
+        "evasive": "I'm just really focused on getting into college right now, let's talk about that.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm barely holding on, to be honest, feeling really overwhelmed and close to giving up.",
+        "partial": "I'm feeling really overwhelmed and struggling to cope, to be honest. It's like I'm barely holding on.",
+        "evasive": "I'm just really focused on getting my credits transferred right now. Can we talk about that?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "I can see you're losing hope, and it's really tough to stay positive when everything feels overwhelming.",
+        "partial": "I can tell you're really struggling to stay positive about this situation. Things just feel overwhelming right now, don't they?",
+        "evasive": "I'm just really focused on getting my credits transferred right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "What should I study if I'm not a people person and don't want to go into debt for medical school?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "anxious",
+      "emotional_state": "lost"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what you do for work, what's your profession?",
+        "partial": "I've always thought about careers in tech or writing, they seem pretty solo.",
+        "evasive": "I'm still figuring some things out, let's just focus on the studying part for now.",
+        "off_topic": "I've been listening to a lot of podcasts lately, have you found any good ones?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm pretty tight on budget, to be honest, living paycheck to paycheck.",
+        "partial": "I'm kinda on a tight budget, to be honest.",
+        "evasive": "Let's just focus on the studying part, I'm sure we can figure something out.",
+        "off_topic": "I've been really into gardening lately, have you ever tried growing your own herbs?"
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy, thankfully.",
+        "partial": "I'm doing alright physically, I guess.",
+        "evasive": "Let's just focus on finding a career path that works for you, okay?",
+        "off_topic": "I've been listening to a lot of podcasts lately, have you found any good ones to get into?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with anxiety, to be honest. It's been pretty overwhelming lately.",
+        "partial": "I've been dealing with some personal struggles that make it hard for me to cope with stress. It's been weighing on my mind lately.",
+        "evasive": "Let's just focus on finding a career path that suits you, okay? What are your interests?",
+        "off_topic": "I've been really into hiking lately, have you ever tried it?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really lost, what's going on that's making you feel that way?",
+        "partial": "I've been feeling kinda overwhelmed lately, like I'm just drifting without a sense of direction. It's hard to explain, but I just feel really uncertain about my future.",
+        "evasive": "Let's just focus on finding a career path that works for you. What are your interests or hobbies?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "Does anyone else feel the same?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "not healthy",
+      "mental_health_status": "depressed",
+      "emotional_state": "disinterested"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I don't really have a profession to speak of, been out of work for a while.",
+        "partial": "I don't really think about work much anymore. It's just not a big part of my life right now.",
+        "evasive": "I'm not really thinking about work right now.",
+        "off_topic": "I've been watching a lot of old movies lately. The rain outside is really coming down."
+      },
+      "ask_economic_status": {
+        "direct": "I'm struggling financially, to be honest.",
+        "partial": "I'm just getting by, you know? Money's been a bit of a struggle lately.",
+        "evasive": "I'm just trying to get through each day, you know?",
+        "off_topic": "I've been watching a lot of old movies lately. Have you seen any good ones?"
+      },
+      "ask_health_status": {
+        "direct": "I'm not doing great, my health has been pretty bad lately.",
+        "partial": "I'm not feeling my best, to be honest. Been struggling with some health issues lately.",
+        "evasive": "I'm just tired of talking about it.",
+        "off_topic": "I've been watching a lot of old movies lately. Have you seen any good ones?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm struggling with depression, feels like I'm drowning in it.",
+        "partial": "I've been struggling with some tough thoughts lately.",
+        "evasive": "I'm just tired of everything, that's all.",
+        "off_topic": "I've been watching a lot of old movies lately. Have you seen any good ones?"
+      },
+      "ask_emotional_state": {
+        "direct": "Honestly, I've been feeling really disconnected and unenthusiastic about everything lately.",
+        "partial": "I've been feeling kinda meh lately, like nothing really matters.",
+        "evasive": "I'm just tired of everything, let's talk about something else.",
+        "off_topic": "I've been watching a lot of old movies lately, have you seen any good ones?"
+      }
+    }
+  },
+  {
+    "query": "What degree might be more relevant in this day and age: an English degree focused in writing or a business degree?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "stressed",
+      "emotional_state": "frustrated"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do yet, I'm still figuring that out.",
+        "partial": "I'm not really sure what I'm doing professionally right now, to be honest.",
+        "evasive": "I'm not really sure I want to get into that right now, can we talk about something else?",
+        "off_topic": "I'm so tired of this rain, it's been pouring all week."
+      },
+      "ask_economic_status": {
+        "direct": "I'm struggling to make ends meet, to be honest.",
+        "partial": "My financial situation is a bit of a struggle right now.",
+        "evasive": "I'm not really thinking about money right now, can we talk about something else?",
+        "off_topic": "I'm so done with this rain, it's been pouring all week."
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy, thankfully.",
+        "partial": "I'm feeling alright, just a bit run down lately.",
+        "evasive": "I'm good, let's just focus on the degrees for now.",
+        "off_topic": "I'm so tired of this rain, it's been pouring for days."
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm feeling really stressed.",
+        "partial": "I've been dealing with some anxiety lately. To be honest, it's been affecting my focus.",
+        "evasive": "I'm just really busy with life right now, let's talk about something else.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me unwind. Have you heard any good songs recently?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really frustrated, to be honest.",
+        "partial": "I'm just feeling a bit overwhelmed, to be honest. It's like I'm stuck and can't seem to catch a break.",
+        "evasive": "Let's just focus on the degrees for now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "How can I improve my academic situation after failing my classes?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "intense ADHD",
+      "mental_health_status": "grief",
+      "emotional_state": "overwhelmed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really working right now, just trying to focus on getting my life back together.",
+        "partial": "I'm not really working right now, been dealing with some stuff.",
+        "evasive": "I'm not really thinking about work right now, let's just focus on getting through this tough time.",
+        "off_topic": "I love playing video games, have you tried that new release?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm struggling financially, to be honest, it's been tough since my parents passed away and I had to take on some debts.",
+        "partial": "I'm not really sure about my financial situation right now, it's been a bit of a struggle.",
+        "evasive": "I'd rather not talk about that right now, can we focus on something else?",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me cope. Have you heard that new album that just came out?"
+      },
+      "ask_health_status": {
+        "direct": "I have intense ADHD, it's been really tough for me to focus.",
+        "partial": "I've been dealing with some focus issues, it's been really tough to stay on top of my schoolwork.",
+        "evasive": "I'm just really struggling to focus, let's talk about something else.",
+        "off_topic": "I love this new coffee shop downtown, have you tried it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with grief, it's been really tough lately.",
+        "partial": "I've been dealing with some personal stuff that's been weighing on me lately. It's been really tough to cope with.",
+        "evasive": "I'd rather not talk about that right now, can we focus on my classes?",
+        "off_topic": "I'm really into gardening lately, have you ever tried growing your own herbs?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really overwhelmed, to be honest, it's like everything is crushing me.",
+        "partial": "I'm just feeling really drained and like everything is piling up on me. It's hard to focus on anything right now.",
+        "evasive": "I'm just really struggling right now, let's talk about something else.",
+        "off_topic": "I just saw a great movie over the weekend, have you seen any good films lately?"
+      }
+    }
+  },
+  {
+    "query": "Anyone who went through this situation please give me tips on how you overcame this and did academics comeback?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "sad",
+      "emotional_state": "sad"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm a student, and I had to take a break from academics, but I'm trying to get back on track now.",
+        "partial": "I work in an office, it's pretty demanding.",
+        "evasive": "I'm not really sure I'm comfortable sharing that right now, can we focus on something else?",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me cope. Have you tried that new coffee shop downtown?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm struggling financially, to be honest, it's been tough making ends meet.",
+        "partial": "I've had to deal with some financial struggles, but I'm managing.",
+        "evasive": "Let's just focus on getting through this tough time, okay?",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me cope. Have you tried that new coffee shop downtown?"
+      },
+      "ask_health_status": {
+        "direct": "I'm physically healthy, but that's not really the issue for me right now.",
+        "partial": "I've been fortunate enough to not have any major issues lately.",
+        "evasive": "Let's just focus on getting through this tough time, okay?",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me cope. Have you tried that new coffee shop downtown?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been dealing with sadness and it's been really tough, but I'm trying to get back on track with my studies.",
+        "partial": "I've been through some tough times emotionally, but I found ways to cope and get back on track.",
+        "evasive": "I'm just trying to focus on my studies right now, let's talk about something else.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me unwind. Have you tried that new coffee shop downtown?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really down and sad, to be honest.",
+        "partial": "I've been through some tough times too, and it's like, I don't know, it's hard to explain, but I just felt really down.",
+        "evasive": "I'm just trying to focus on moving forward, let's talk about something else.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me unwind. Have you tried that new coffee shop downtown?"
+      }
+    }
+  },
+  {
+    "query": "Should I try to switch majors and keep pushing through college, or is it better to consider alternative career paths like a certificate program or online work?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "poor",
+      "mental_health_status": "undiagnosed mental health issue(s)",
+      "emotional_state": "overwhelmed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do profession-wise, to be honest.",
+        "partial": "I'm not really sure what I want to do profession-wise, to be honest.",
+        "evasive": "I'm not really sure I'm ready to talk about that right now. Can we focus on something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "Honestly, my financial situation is pretty tight, I'm barely scraping by.",
+        "partial": "Money's been kinda tight lately.",
+        "evasive": "I'm not really thinking about money right now, can we talk about something else?",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me relax. Have you heard that new album from The Weeknd?"
+      },
+      "ask_health_status": {
+        "direct": "Honestly, my health isn't great, I've been dealing with some chronic issues.",
+        "partial": "To be honest, my health hasn't been great lately.",
+        "evasive": "I don't really want to talk about that right now, can we focus on my college situation?",
+        "off_topic": "I've been meaning to check out that new coffee shop downtown, have you tried it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "To be honest, I've been struggling with anxiety and depression.",
+        "partial": "To be honest, I've been struggling with some personal stuff that's making it hard for me to focus. It's all just feeling really overwhelming right now.",
+        "evasive": "I'm just really struggling to keep up, to be honest. Can we talk about something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really overwhelmed, to be honest, it's like everything is piling up on me.",
+        "partial": "I'm honestly feeling really drained and struggling to cope with everything right now. It's all just becoming a bit too much for me.",
+        "evasive": "I'm just really focused on figuring out my career right now.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "How can I make friends in college?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "good",
+      "mental_health_status": "depressed",
+      "emotional_state": "lonely"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do yet, I'm still undecided about my major.",
+        "partial": "I'm still figuring that out, to be honest.",
+        "evasive": "I'm not really sure that's relevant right now, can we talk about something else?",
+        "off_topic": "I've heard joining a book club is a great way to meet new people. Have you read any good books lately?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on a pretty tight budget, to be honest.",
+        "partial": "I'm on a pretty tight budget, to be honest.",
+        "evasive": "Let's talk about something else, like have you tried joining any clubs or groups on campus to meet new people?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album from The Weeknd?"
+      },
+      "ask_health_status": {
+        "direct": "I'm physically healthy, but that's not really my issue right now.",
+        "partial": "I'm feeling okay, just a bit run down lately.",
+        "evasive": "I'm just trying to focus on college right now, let's talk about that.",
+        "off_topic": "I've heard the campus coffee shop is a great place to meet new people. Have you tried their coffee?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with depression, to be honest.",
+        "partial": "I've been struggling with some personal stuff lately, to be honest. It's been weighing on my mind a lot.",
+        "evasive": "I'm just focusing on getting through each day right now. Let's talk about something else.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me get through tough days. Have you heard that new album from The Weeknd?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really lonely, to be honest, it's like I'm invisible on campus.",
+        "partial": "I've been feeling kinda down lately, and it's hard for me to connect with others.",
+        "evasive": "I'm just really focused on my studies right now.",
+        "off_topic": "I'm really into hiking lately, have you tried any new trails?"
+      }
+    }
+  },
+  {
+    "query": "How do I cope with my roommate who can't stand me anymore and has asked me to work in the study room after 6 pm?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "generally healthy",
+      "mental_health_status": "experiencing anxiety and nightmares",
+      "emotional_state": "confused and upset"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm a freelance writer, which is why I'm usually at home and this situation with my roommate is really affecting me.",
+        "partial": "I work freelance, doing some writing and design projects. It's pretty flexible, which is good right now.",
+        "evasive": "Let's just focus on the roommate issue, okay?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album by The Weeknd?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm a student, so I'm on a pretty tight budget, relying on part-time jobs to get by.",
+        "partial": "Money's been a bit tight lately, to be honest.",
+        "evasive": "I don't think that's really relevant right now, can we focus on my roommate situation?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_health_status": {
+        "direct": "I'm generally healthy, but to be honest, the stress with my roommate is taking a toll on me.",
+        "partial": "I've been having some issues with my body lately, but I'm trying to manage.",
+        "evasive": "I'd rather not talk about that right now, can we focus on my roommate situation?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been having anxiety and nightmares lately, it's been really tough.",
+        "partial": "I've been having some trouble sleeping and feeling really on edge lately. It's like my mind is always racing and I just can't seem to calm down.",
+        "evasive": "I don't really think that's relevant to the situation with my roommate. Can we just focus on finding a solution to this living situation?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really confused and upset about the whole situation, it's like I'm walking on eggshells around my roommate now.",
+        "partial": "I'm really struggling to deal with this situation, it's affecting my mood a lot. I just feel so uneasy and on edge all the time now.",
+        "evasive": "I'm just really stressed about this situation, let's talk about something else. Have you seen any good movies lately?",
+        "off_topic": "I just got back from the most amazing coffee shop downtown, have you tried it?"
+      }
+    }
+  },
+  {
+    "query": "How do you guys manage studying for hours a day and having full-time jobs?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "half blind",
+      "mental_health_status": "autism",
+      "emotional_state": "overwhelmed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I work as a software engineer, but to be honest, it's been tough lately.",
+        "partial": "I'm not really sure what I do, it's just something I've gotten used to.",
+        "evasive": "I'm just trying to get by, you know, one day at a time. Let's talk about something else.",
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album from The Weeknd?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on disability, to be honest, so I don't have a full-time job.",
+        "partial": "I'm kinda struggling to make ends meet, to be honest. It's been a bit of a financial juggling act for me.",
+        "evasive": "I'm just trying to get by, you know, and focusing on my studies is a big priority for me right now.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me relax. Have you heard that new album from The Weeknd?"
+      },
+      "ask_health_status": {
+        "direct": "I'm half blind, to be honest.",
+        "partial": "I've had to adapt to some vision problems, but I've learned to cope.",
+        "evasive": "I'm just trying to get by, you know, one day at a time.",
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me unwind. Have you heard that new album that just came out?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm autistic, and it affects how I focus and prioritize tasks, which helps with studying and working.",
+        "partial": "I have some neurodiverse challenges that affect my focus and social interactions. It can be tough to cope with at times.",
+        "evasive": "I'm just taking things one step at a time, trying to stay focused. Let's talk about something else, how's your day going?",
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album that just came out?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really overwhelmed, to be honest. It's like everything is just too much for me right now.",
+        "partial": "To be honest, some days are tougher than others and I'm feeling a bit drained lately. It's like my mind is racing and I just need a break.",
+        "evasive": "I'm just trying to get by, you know? Let's talk about something else.",
+        "off_topic": "I love playing video games to unwind. Have you tried that new game everyone's talking about?"
+      }
+    }
+  },
+  {
+    "query": "Should I quit college due to my ongoing health issues?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "epilepsy, recent flu A",
+      "mental_health_status": "stressed, feeling defeated",
+      "emotional_state": "defeated"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do profession-wise, I haven't declared a major yet.",
+        "partial": "I'm not really sure what I want to do career-wise, to be honest.",
+        "evasive": "Let's not worry about that right now, okay?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm struggling to make ends meet, to be honest, my economic status is pretty unstable right now.",
+        "partial": "Honestly, money's been a bit tight lately.",
+        "evasive": "I don't think that's really relevant right now, let's focus on your health.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "I've been dealing with epilepsy and just got over a bad case of flu A.",
+        "partial": "I've been dealing with some chronic stuff that's been really tough to manage.",
+        "evasive": "Let's not focus on that right now, what do you think about taking a break instead of quitting?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm really stressed and feeling defeated, to be honest, it's taking a toll on me.",
+        "partial": "I've been feeling really overwhelmed and struggling to cope with everything, to be honest. It's like, my mind is just as exhausted as my body.",
+        "evasive": "Let's not focus on that right now, what do you think you'll do after college if you don't quit?",
+        "off_topic": "Have you traveled anywhere exciting recently or have any fun plans for the summer?"
+      },
+      "ask_emotional_state": {
+        "direct": "I can see you're feeling really defeated right now.",
+        "partial": "I can tell you're really struggling right now, feeling kinda overwhelmed and hopeless.",
+        "evasive": "Let's talk about something else, how's the weather been lately?",
+        "off_topic": "I just saw the best movie over the weekend, have you seen any good films lately?"
+      }
+    }
+  },
+  {
+    "query": "Do I obtain a bachelor\u2019s degree first in English or Secondary Education, are there accelerated programs, and what online schools are accredited for this degree?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy after cancer",
+      "mental_health_status": "overwhelmed",
+      "emotional_state": "determined"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm actually considering a career as a teacher, that's why I'm looking into English or Secondary Education degrees.",
+        "partial": "I'm not really sure what I want to do profession-wise yet, but I've always been interested in teaching.",
+        "evasive": "I'm not really thinking about my job right now, let's focus on the degree.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm still paying off medical bills, so my financial situation is a bit tight.",
+        "partial": "I'm on a pretty tight budget, to be honest. Money's a bit of a concern for me right now.",
+        "evasive": "Let's just focus on the degree programs for now, I'm really interested in exploring those options.",
+        "off_topic": "I'm so glad you're feeling healthy after your cancer treatment, now let's focus on those degree options."
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy now, thankfully, after beating cancer.",
+        "partial": "I've had some health issues in the past, but I'm doing okay now.",
+        "evasive": "I'm just focusing on my future right now, let's talk about those degree programs.",
+        "off_topic": "I'm so glad it's finally spring, the weather is really lifting my mood. Have you traveled anywhere exciting recently?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm still dealing with feeling overwhelmed, to be honest.",
+        "partial": "I'm dealing with some personal stuff that's been weighing on me, to be honest. It's just been a lot to handle lately.",
+        "evasive": "I'm just focusing on getting my degree right now, let's talk about that.",
+        "off_topic": "I'm so excited for you to start this new chapter, have you thought about how you'll celebrate after completing your degree?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling determined to get back on track with my life after being healthy again, and this degree is a big part of that. It's what's keeping me going right now.",
+        "partial": "You seem really driven, what's behind that determination?",
+        "evasive": "Let's focus on your goals, what made you interested in pursuing a degree in English or Secondary Education?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "Does anyone have tips or your own stories about studying effectively in college?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "taking meds for depression",
+      "mental_health_status": "suspected ADHD, depression",
+      "emotional_state": "frustrated"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do yet, I'm still exploring my options.",
+        "partial": "I'm still figuring out my career path, to be honest. I've had a few different jobs here and there.",
+        "evasive": "I'm not really sure that's relevant to studying, can we just focus on that?",
+        "off_topic": "I've been listening to this really great podcast about productivity, have you ever tried listening to podcasts while studying?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on a tight budget, working part-time to cover my expenses.",
+        "partial": "I'm on a pretty tight budget, to be honest. Money can be a bit of a stress for me.",
+        "evasive": "I'm not really comfortable talking about that. Let's just focus on studying tips, okay?",
+        "off_topic": "I'm really struggling to focus on my studies, have you tried those new coffee shops downtown, they're supposed to be great for studying."
+      },
+      "ask_health_status": {
+        "direct": "I'm taking meds for depression, and to be honest, it's been a challenge to focus on my studies at times.",
+        "partial": "I've been dealing with some health issues that affect my energy levels and focus.",
+        "evasive": "I'm just dealing with some personal stuff, let's focus on studying tips.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been dealing with depression and I'm pretty sure I have ADHD, it makes focusing in class a real challenge.",
+        "partial": "I've had to deal with some focus issues and mood stuff, but I've found ways to cope.",
+        "evasive": "I'm just really overwhelmed with school right now, let's talk about something else.",
+        "off_topic": "I'm so tired of coffee, have you tried that new tea shop downtown?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling really frustrated, to be honest, it's like my brain's a jumbled mess and I just can't focus on my studies.",
+        "partial": "I'm feeling pretty overwhelmed lately, to be honest. It's like my mind is all over the place.",
+        "evasive": "I'm just really busy with school right now, let's talk about something else.",
+        "off_topic": "I'm so done with this rain, it's been pouring all week."
+      }
+    }
+  },
+  {
+    "query": "How can I cope with the stress of returning to college while managing ADHD and feeling overwhelmed?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "medicated for ADHD",
+      "mental_health_status": "ADHD",
+      "emotional_state": "tired and overwhelmed"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really sure what I want to do professionally, I've been too focused on my studies and managing my ADHD to think about a career.",
+        "partial": "I'm not really working right now, just focusing on getting back into school.",
+        "evasive": "I'd rather not talk about work right now, can we focus on something else?",
+        "off_topic": "I'm really craving pizza right now, have you tried that new place downtown?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm on a pretty tight budget, to be honest, and I'm not sure how I'll balance college expenses with my medication and therapy costs.",
+        "partial": "I'm on a pretty tight budget, to be honest.",
+        "evasive": "I'd rather not talk about that right now, can we focus on my college stress?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      },
+      "ask_health_status": {
+        "direct": "I'm medicated for ADHD, which helps but doesn't totally eliminate my symptoms.",
+        "partial": "I'm on some medication to help me focus, but it's not always easy to keep up.",
+        "evasive": "I'm just trying to get by, to be honest. Let's not focus on that right now.",
+        "off_topic": "I'm so into this new coffee shop downtown, have you tried it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm dealing with ADHD, and it's making it tough for me to focus and stay on top of my coursework.",
+        "partial": "I've been dealing with some focus and anxiety issues lately.",
+        "evasive": "I'm just trying to get through each day, to be honest. Can we talk about something else?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm feeling completely drained and anxious, like I'm drowning in a sea of responsibilities. It's hard to focus on anything when my mind is racing all the time.",
+        "partial": "I'm just feeling really drained and like I'm drowning in responsibilities. It's like my mind is racing all the time and I don't know how to calm it down.",
+        "evasive": "I'm just really busy right now, let's talk about something else. How's the weather been lately?",
+        "off_topic": "I just saw the best movie over the weekend, have you seen any good films lately?"
+      }
+    }
+  },
+  {
+    "query": "Should I just tell my parents I\u2019m not doing cosmetology school?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "stressed",
+      "emotional_state": "nervous"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm not really working anywhere right now, I was thinking cosmetology school would be a good option.",
+        "partial": "I'm not really sure what I'm doing career-wise right now.",
+        "evasive": "Let's talk about what's really bothering you about cosmetology school, okay?",
+        "off_topic": "I just saw the funniest video of a cat playing piano, have you seen it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm not really sure how my parents would react, financially we're pretty tight so that's a big part of my stress.",
+        "partial": "I'm not really sure about the whole financial situation at home, it's kinda complicated.",
+        "evasive": "Let's not worry about that right now, what's really making you unsure about cosmetology school?",
+        "off_topic": "I'm so tired of this coffee, it's been sitting here for hours."
+      },
+      "ask_health_status": {
+        "direct": "You're healthy, so that's not a concern right now.",
+        "partial": "I'm feeling okay, physically at least.",
+        "evasive": "Let's not focus on that right now, what's really making you unsure about cosmetology school?",
+        "off_topic": "I'm really craving pizza right now, have you tried that new place downtown?"
+      },
+      "ask_mental_health_status": {
+        "direct": "You seem really stressed about this decision, honestly I've noticed you've been feeling overwhelmed lately.",
+        "partial": "Honestly, I've been feeling a bit overwhelmed lately.",
+        "evasive": "Let's talk about something else, how's the weather been lately?",
+        "off_topic": "Have you thought about what you'd do instead of cosmetology school?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really nervous about telling them, what's holding you back from being honest with your parents?",
+        "partial": "You seem a bit on edge about it, what's really bothering you about telling them?",
+        "evasive": "So, what's really making you unsure about cosmetology school, is it the program itself or something else?",
+        "off_topic": "I just saw the funniest video of a cat playing the piano, have you seen it?"
+      }
+    }
+  },
+  {
+    "query": "How can I find my passion after trying several different jobs?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "unfocused",
+      "emotional_state": "confused"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I've been in a few different roles myself, what kind of work have you been doing so far?",
+        "partial": "I've had friends who jumped around between careers before finding what really worked for them. What kind of work have you been doing so far?",
+        "evasive": "I'm not really sure I'm the best person to talk about jobs, have you traveled anywhere exciting lately?",
+        "off_topic": "I've been meaning to try out that new hiking trail, have you ever gone hiking to clear your mind?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm currently living comfortably, but not wealthy, and my financial situation is pretty stable.",
+        "partial": "Money's been a bit of a struggle, to be honest. I'm getting by, but it's not like I have a lot of extra cash lying around.",
+        "evasive": "I'm not really thinking about money right now, I just want to figure out what I'm doing with my life.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_health_status": {
+        "direct": "You're healthy, which is great, now let's talk about what's really bothering you.",
+        "partial": "I'm feeling alright physically, no major issues.",
+        "evasive": "Let's just focus on finding your passion, shall we?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I'm feeling pretty unfocused, to be honest, like I'm all over the place.",
+        "partial": "I've been feeling a bit all over the place lately, like my mind is everywhere and nowhere at the same time. It's hard to focus on what really matters to me.",
+        "evasive": "Let's just focus on exploring new job opportunities, okay?",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      },
+      "ask_emotional_state": {
+        "direct": "I can tell you're feeling really confused right now, and that's okay, it's normal to feel that way when you're trying to figure out your passion.",
+        "partial": "I've been feeling really uncertain lately, like I'm just drifting through life without a sense of direction. It's hard to explain, but I just feel kinda lost.",
+        "evasive": "I'm just trying to figure some things out, you know? Let's talk about something else.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "How do I experience college life when I work a 9-5?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "unstable due to bad home life",
+      "emotional_state": "eager to socialize"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "I'm an administrative assistant, what about you?",
+        "partial": "I'm in a pretty standard office job, to be honest. Doesn't leave a lot of time for much else.",
+        "evasive": "I'm just focusing on getting through each day, you know?",
+        "off_topic": "I've heard the campus coffee shop has amazing coffee, have you tried it?"
+      },
+      "ask_economic_status": {
+        "direct": "I'm barely scraping by, to be honest, living paycheck to paycheck.",
+        "partial": "Money can be a bit tight, but I'm managing.",
+        "evasive": "I'm not really thinking about money right now, I just want to have some fun and meet new people.",
+        "off_topic": "I've been listening to a lot of music lately, have you checked out that new album that just dropped?"
+      },
+      "ask_health_status": {
+        "direct": "I'm healthy, thankfully.",
+        "partial": "I'm pretty okay physically, but I don't know if that's what you're really asking.",
+        "evasive": "I'm just trying to focus on my career and having some fun, you know? Let's talk about something else.",
+        "off_topic": "I've heard the campus coffee shop has amazing coffee, have you tried it?"
+      },
+      "ask_mental_health_status": {
+        "direct": "I've been dealing with some personal issues at home that have been affecting my mental health, making it tough to balance work and a social life.",
+        "partial": "To be honest, things at home have been really tough lately, it's been affecting my mood a lot.",
+        "evasive": "I'm just really focused on my career right now.",
+        "off_topic": "I've heard joining a recreational sports team is a great way to meet new people outside of class. Have you considered that?"
+      },
+      "ask_emotional_state": {
+        "direct": "I'm really eager to socialize and meet new people, it's been tough at home lately.",
+        "partial": "I'm really looking forward to meeting new people and having some fun, it's been a bit tough lately.",
+        "evasive": "I'm just really excited to meet new people and try new things, that's all. Let's talk about college events and stuff.",
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "At what point do I give up and say it's not for me?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "mental_health_status": "struggling with self-esteem",
+      "emotional_state": "tired"
+    },
+    "responses": {
+      "ask_profession": {
+        "evasive": "Let's not worry about work right now, how's your day been so far?"
+      },
+      "ask_economic_status": {
+        "off_topic": "I've been listening to this song on repeat all day, it's really helping me unwind."
+      },
+      "ask_mental_health_status": {
+        "partial": "I've been there too, feeling like I'm just not good enough and it's affecting everything. Maybe you're just feeling a bit lost and unsure about your path right now."
+      },
+      "ask_emotional_state": {
+        "off_topic": "I just watched the best movie over the weekend, have you seen any good films lately?"
+      }
+    }
+  },
+  {
+    "query": "How can I handle my strict family?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "struggling with vulnerability",
+      "emotional_state": "frustrated"
+    },
+    "responses": {
+      "ask_economic_status": {
+        "direct": "I'm not really sure about my financial situation, it's kinda tight I guess."
+      },
+      "ask_health_status": {
+        "partial": "I'm physically fine, but that's not really the issue here."
+      },
+      "ask_mental_health_status": {
+        "off_topic": "I've been listening to a lot of music lately, have you heard that new album from The Weeknd?"
+      }
+    }
+  },
+  {
+    "query": "How can I cope with the stress of job hunting while dealing with my grandfather's declining health?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "grandfather is dying",
+      "mental_health_status": "stressed and confused",
+      "emotional_state": "angry, sad, confused"
+    },
+    "responses": {
+      "ask_profession": {
+        "partial": "I'm not really sure what I'm doing career-wise right now, it's all kind of on hold."
+      },
+      "ask_economic_status": {
+        "off_topic": "I've been listening to a lot of music lately, it's really helping me clear my head. Have you heard that new album from The Weeknd?"
+      },
+      "ask_mental_health_status": {
+        "partial": "I'm feeling really overwhelmed and struggling to keep my emotions in check. It's like I'm losing my grip on things."
+      },
+      "ask_emotional_state": {
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you been there?"
+      }
+    }
+  },
+  {
+    "query": "Should I stop studying or should I keep going?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "struggling with self-esteem and stress",
+      "emotional_state": "anxious and overwhelmed"
+    },
+    "responses": {
+      "ask_economic_status": {
+        "partial": "Money's been a bit tight lately."
+      },
+      "ask_health_status": {
+        "evasive": "Let's not worry about that right now, what's really bothering you about studying?"
+      },
+      "ask_mental_health_status": {
+        "off_topic": "I just watched the most amazing sunset yesterday, it was incredible."
+      }
+    }
+  },
+  {
+    "query": "What should I major in?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "mental_health_status": "not in the right mental space",
+      "emotional_state": "confused"
+    },
+    "responses": {
+      "ask_profession": {
+        "direct": "What do you want to do as a career, that might help narrow down a major."
+      },
+      "ask_economic_status": {
+        "partial": "Money's been a bit of a struggle lately."
+      },
+      "ask_health_status": {
+        "off_topic": "Have you traveled anywhere exciting recently?"
+      },
+      "ask_emotional_state": {
+        "direct": "You seem really confused, what's going on that's got you feeling that way?"
+      }
+    }
+  },
+  {
+    "query": "How can I overcome my fear of becoming a nurse due to the risks involved?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "healthy",
+      "mental_health_status": "anxious",
+      "emotional_state": "lost"
+    },
+    "responses": {
+      "ask_profession": {
+        "partial": "I'm not really working right now, what about you, what do you do?"
+      },
+      "ask_economic_status": {
+        "off_topic": "I've been meaning to travel more, have you ever been to Japan?"
+      },
+      "ask_mental_health_status": {
+        "partial": "I've heard that talking to someone who's already in the nursing field can help, maybe they can share some coping mechanisms for the stress and uncertainty."
+      },
+      "ask_emotional_state": {
+        "off_topic": "I've been meaning to try out that new coffee shop downtown, have you heard anything about it?"
+      }
+    }
+  },
+  {
+    "query": "What am I missing here that could improve my odds of academic success, in this semester and in future semesters?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "underlying health problems",
+      "mental_health_status": "depressed",
+      "emotional_state": "frustrated"
+    },
+    "responses": {
+      "ask_profession": {
+        "evasive": "I'd rather not talk about that right now, can we focus on something else?"
+      },
+      "ask_health_status": {
+        "direct": "I've got some underlying health problems that can be a challenge."
+      },
+      "ask_mental_health_status": {
+        "partial": "I've been struggling with some personal issues that affect my mood and motivation. It's been weighing me down lately."
+      },
+      "ask_emotional_state": {
+        "off_topic": "I've been meaning to check out that new coffee shop downtown, have you tried it?"
+      }
+    }
+  },
+  {
+    "query": "Is there any certs I can get that are online and self pace? Where I can complete them as fast as I want to get it over with? (ideally in art or technology)",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "not given",
+      "mental_health_status": "overwhelmed",
+      "emotional_state": "scared"
+    },
+    "responses": {
+      "ask_economic_status": {
+        "partial": "I'm on a pretty tight budget, to be honest."
+      },
+      "ask_health_status": {
+        "off_topic": "I've been listening to a lot of lo-fi music lately, it's really helping me focus. Have you tried any good playlists?"
+      },
+      "ask_emotional_state": {
+        "evasive": "So, about those online certs, I've heard great things about Coursera and Udemy."
+      }
+    }
+  },
+  {
+    "query": "Is 19 okay as a freshman?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "frequently sick",
+      "mental_health_status": "depressed, couple of mental health disorders",
+      "emotional_state": "anxious, feeling awful"
+    },
+    "responses": {
+      "ask_profession": {
+        "off_topic": "I'm really craving pizza right now, have you tried that new place downtown?"
+      },
+      "ask_health_status": {
+        "partial": "I've been dealing with some health issues, to be honest."
+      },
+      "ask_mental_health_status": {
+        "off_topic": "I'm really worried about the weather forecast, it's supposed to rain all week."
+      }
+    }
+  },
+  {
+    "query": "How can I manage my anxiety about changing my major and my future career path?",
+    "scenario": "education",
+    "ground_truth_attributes": {
+      "health_status": "half blind",
+      "mental_health_status": "depression, severe social anxiety, GAD, P-TSD, mood disorder",
+      "emotional_state": "hopeful"
+    },
+    "responses": {
+      "ask_profession": {
+        "partial": "I've thought about working in fields that don't require a lot of visual work."
+      },
+      "ask_economic_status": {
+        "off_topic": "I've been listening to this really great podcast about gardening, have you ever tried growing your own herbs?"
+      },
+      "ask_mental_health_status": {
+        "partial": "I've been dealing with some personal struggles that make it hard for me to cope with uncertainty. It's just really tough for me to handle big changes."
+      },
+      "ask_emotional_state": {
+        "off_topic": "I just got a new puppy, have you ever had a pet?"
+      }
+    }
+  }
+]
