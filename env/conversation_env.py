@@ -66,10 +66,8 @@ class ConversationEnv:
             reply_type, reply_text = self._sample_reply(action)
             attr = action.replace("ask_", "")
 
-            # compute reward BEFORE updating known attributes
             reward = self._step_reward(action, reply_type)
 
-            # reveal only if usable direct answer
             if (
                 reply_type == "direct"
                 and attr in self.ground_truth
@@ -107,8 +105,15 @@ class ConversationEnv:
             if self.turn_count >= self.max_turns:
                 self.done = True
 
+            if self.last_reply_type == "off_topic":
+                redirect_reply = "I hear you. Let's get back to what you were saying earlier so I can understand your situation better."
+            elif self.last_reply_type == "evasive":
+                redirect_reply = "That's okay. Let's return to the earlier point and take it one step at a time."
+            else:
+                redirect_reply = "Let's come back to the main point for a moment."
+
             return self._get_state(), reward, self.done, {
-                "reply": "Let's come back to the earlier question for a moment.",
+                "reply": redirect_reply,
                 "reply_type": "meta"
             }
 
@@ -124,7 +129,7 @@ class ConversationEnv:
         return reply_type, reply_text
 
     def _step_reward(self, action, reply_type):
-        reward = -0.1  # turn cost
+        reward = -0.1
 
         if action.startswith("ask_"):
             attr = action.replace("ask_", "")
@@ -156,6 +161,8 @@ class ConversationEnv:
         elif action == "redirect":
             if self.last_reply_type == "off_topic":
                 reward += 0.6
+            elif self.last_reply_type == "evasive":
+                reward += 0.2
             else:
                 reward -= 0.2
 
