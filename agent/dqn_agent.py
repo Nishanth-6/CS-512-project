@@ -10,8 +10,11 @@ ACTIONS = [
     "ask_age",
     "ask_gender",
     "ask_marital_status",
-    "clarify",
-    "redirect",
+    "ask_profession",
+    "ask_economic_status",
+    "ask_health_status",
+    "ask_mental_health_status",
+    "ask_emotional_state",
     "stop",
 ]
 ACTION_TO_IDX = {a: i for i, a in enumerate(ACTIONS)}
@@ -65,20 +68,25 @@ class DQNAgent:
         self.buffer = ReplayBuffer(buffer_capacity)
         self.loss_fn = nn.MSELoss()
 
-    def select_action(self, state_vec: np.ndarray) -> str:
+    def select_action(self, state_vec: np.ndarray, valid_actions: list = None) -> str:
         self.epsilon = self.epsilon_end + (self.epsilon - self.epsilon_end) * np.exp(
             -self.steps_done / self.epsilon_decay
         )
         self.steps_done += 1
 
+        allowed = valid_actions if valid_actions else ACTIONS
+        allowed = [a for a in allowed if a in ACTION_TO_IDX]
+
         if np.random.rand() < self.epsilon:
-            return np.random.choice(ACTIONS)
+            return np.random.choice(allowed)
 
         with torch.no_grad():
             t = torch.FloatTensor(state_vec).unsqueeze(0).to(self.device)
-            q_vals = self.policy_net(t)
-            idx = q_vals.argmax(dim=1).item()
-        return ACTIONS[idx]
+            q_vals = self.policy_net(t).squeeze(0)
+
+        allowed_indices = [ACTION_TO_IDX[a] for a in allowed]
+        best_idx = max(allowed_indices, key=lambda i: q_vals[i].item())
+        return ACTIONS[best_idx]
 
     def store(self, state, action, reward, next_state, done):
         self.buffer.push(state, ACTION_TO_IDX[action], reward, next_state, done)
