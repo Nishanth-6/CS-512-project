@@ -1,6 +1,12 @@
 env/__pycache__/
 agent/__pycache__/
+__pycache__/
+*.pyc
 *.zip
 simulated_dataset_*.json
 *.zip
 simulated_dataset_*.json
+.venv/
+models/
+models1/
+results/
