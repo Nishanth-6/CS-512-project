@@ -7,7 +7,7 @@ env = ConversationEnv(loader)
 
 state = env.reset()
 
-print("Initial query:", state["query"])
+print("Initial query:", state["query"]) 1   `1.90loi`qouou0j08llpi98 ZX ''
 print("Scenario:", state["scenario"])
 
 done = False
